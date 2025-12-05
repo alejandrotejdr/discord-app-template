@@ -32,8 +32,8 @@ Perfecta como punto de partida para bots con comandos, eventos, soporte de idiom
 
 Clona el repositorio:
 ```bash
-git clone https://github.com/TU_USUARIO/vantyx-template.git
-cd vantyx-template
+git clone https://github.com/alejandrotejdr/discord-app-template.git
+cd discord-app-template
 ```
 
 Instala las depencencias
