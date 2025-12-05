@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+dist/
+.env
+*.log
+*.tmp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TS / Build
+*.tsbuildinfo
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Cachés / Otros
+*.tgz
+.cache/
