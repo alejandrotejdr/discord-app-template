@@ -1,4 +1,4 @@
-# VANTYX – Plantilla de Bot Discord con Seyfert
+# Plantilla de Bot Discord con Seyfert
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Node Version](https://img.shields.io/badge/Node-20+-green)](https://nodejs.org/)
@@ -9,7 +9,7 @@ Perfecta como punto de partida para bots con comandos, eventos, soporte de idiom
 
 ---
 
-## ✨ Características
+### ✨ Características
 
 - Comandos Slash listos para usar  
 - Eventos de Discord configurables (`ready`, `guildDelete`, etc.)  
@@ -20,7 +20,7 @@ Perfecta como punto de partida para bots con comandos, eventos, soporte de idiom
 
 ---
 
-## 📝 Requisitos
+### 📝 Requisitos
 
 - Node.js 20 o superior  
 - npm o yarn  
@@ -28,7 +28,7 @@ Perfecta como punto de partida para bots con comandos, eventos, soporte de idiom
 
 ---
 
-## 🚀 Instalación
+### 🚀 Instalación
 
 Clona el repositorio:
 ```bash
@@ -43,7 +43,7 @@ npm install
 
 ---
 
-## ⚙️ Configuración
+### ⚙️ Configuración
 
 Copia el archivo de ejemplo .env.example:
 ```bash
@@ -57,7 +57,7 @@ BOT_TOKEN=tu_token_aqui
 
 ---
 
-## 💻 Desarrollo
+### 💻 Desarrollo
 
 Para arrancar en modo desarrollo con recarga automática:
 ```bash
@@ -67,7 +67,7 @@ Esto usa nodemon y tsx para recargar cambios automáticamente.
 
 ---
 
-## 🏗 Producción
+### 🏗 Producción
 
 1. Compila TypeScript a JavaScript:
 ```bash
@@ -81,7 +81,7 @@ npm start
 
 ---
 
-## 📁 Estructura de carpetas
+### 📁 Estructura de carpetas
 ```bash
 src/
   commands/     # Comandos de Discord
@@ -95,7 +95,7 @@ package.json
 
 ---
 
-## 🧰 Uso de la plantilla
+### 🧰 Uso de la plantilla
 
 	•	Añade nuevos comandos en src/commands/
 	•	Añade o personaliza eventos en src/events/
@@ -104,7 +104,7 @@ package.json
 
 ---
 
-## 📝 Licencia
+### 📝 Licencia
 
 Esta plantilla está bajo la licencia MIT – Extended Version.
 Ver LICENSE￼ para más detalles.
