@@ -107,7 +107,7 @@ package.json
 ### 📝 Licencia
 
 Esta plantilla está bajo la licencia MIT – Extended Version.
-Ver LICENSE￼ para más detalles.
+Ver [LICENSE](https://github.com/alejandrotejdr/discord-app-template/blob/main/license.md)￼ para más detalles.
 
 ⸻
 
