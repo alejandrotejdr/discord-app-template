@@ -1,4 +1,4 @@
-MIT License – Extended Version
+MIT License
 
 Copyright (c) 2025 Alejandro Tejedor
 
